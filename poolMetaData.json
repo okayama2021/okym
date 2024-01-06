@@ -1,6 +1,8 @@
 {
-"name": "OKAYAMA",
-"description": "OKAYAMA",
-"ticker": "OKYM",
-"homepage": "https://twitter.com/PoolOkayama"
+    "name": "OKAYAMA",
+    "description": "OKAYAMA",
+    "ticker": "OKYM",
+    "homepage": "https://twitter.com/PoolOkayama",
+    "extended": "",
+    "nonce":"1704502785"
 }
